@@ -1,26 +1,26 @@
-# 🌐 Eastern University Social Media Management System
+# 🌐 UniConnect: Procedural PHP Social Networking Engine
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-This project is a full-featured Social Networking Platform developed as my **B.Sc. in CSE Final Project**. Built using **Raw PHP and MySQL**, it serves as a specialized communication hub for the university community, facilitating real-time interaction and collaboration.
+UniConnect is a full-featured social networking platform developed as my **B.Sc. in CSE Final Year Project** at Eastern University. Built entirely using **Procedural (Raw) PHP**, this project demonstrates the ability to manage complex system states and relational data without the use of modern frameworks or OOP.
 
-## 🌟 Strategic Features
-*   **Dynamic Social Feed**: A centralized home feed for real-time post updates and media sharing.
-*   **Complex Relationship Mapping**: A bi-directional friendship system with friend request management.
-*   **Real-Time Interactions**: Live notifications for likes, comments, and connections via AJAX.
-*   **Content Management**: Full CRUD functionality for posts (text/images) and user profiles.
-*   **Identity & Security**: Secure user registration with email-based authentication and profile customization.
-*   **Discovery Engine**: Keyword-based search functionality to find peers and content across the network.
+## 🌟 Key Functional Highlights
+*   **Dynamic Social Feed**: A real-time engine for sharing updates and media with the community.
+*   **Procedural Relationship Mapping**: A bi-directional friendship system built using procedural logic for request/acceptance workflows.
+*   **Asynchronous Interactions**: Live notifications, likes, and comments powered by AJAX for a seamless user experience.
+*   **Identity Management**: Secure session-based authentication and comprehensive user profile customization.
+*   **Discovery Engine**: Global search functionality to find peers and community-generated content.
 
 ## 🛠️ Technical Implementation
-*   **Architecture**: Monolithic architecture using Raw PHP and procedural/OO logic
-*   **Database**: Relational schema design in MySQL to handle user entities, post relationships, and activity logs.
-*   **Frontend**: Responsive UI built with HTML5, CSS3, and JavaScript/jQuery.
+*   **Core Logic**: 100% Procedural PHP managing complex session states and global variables.
+*   **Data Integrity**: Relational MySQL schema designed to handle multi-table joins for friends, likes, and user interactions.
+*   **Interface**: Fully responsive frontend built with HTML5, CSS3, and jQuery/AJAX.
 
 ## 💻 Setup & Installation
 
 1. **Clone the Project**:
-   ```bash
-   git clone [https://github.com/Ahsanjuly29/EUSocialMediaMS-php.git](https://github.com/Ahsanjuly29/EUSocialMediaMS-php.git)
+   
+```bash
+   git clone [https://github.com/Ahsanjuly29/UniConnect-PHP.git](https://github.com/Ahsanjuly29/UniConnect-PHP.git)
