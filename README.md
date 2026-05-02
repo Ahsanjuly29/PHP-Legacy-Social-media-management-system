@@ -15,9 +15,9 @@ This project is a full-featured Social Networking Platform developed as my **B.S
 *   **Discovery Engine**: Keyword-based search functionality to find peers and content across the network.
 
 ## 🛠️ Technical Implementation
-*   **Architecture**: Monolithic architecture using Raw PHP and procedural/OO logic[cite: 1].
-*   **Database**: Relational schema design in MySQL to handle user entities, post relationships, and activity logs[cite: 1].
-*   **Frontend**: Responsive UI built with HTML5, CSS3, and JavaScript/jQuery[cite: 1].
+*   **Architecture**: Monolithic architecture using Raw PHP and procedural/OO logic
+*   **Database**: Relational schema design in MySQL to handle user entities, post relationships, and activity logs.
+*   **Frontend**: Responsive UI built with HTML5, CSS3, and JavaScript/jQuery.
 
 ## 💻 Setup & Installation
 
